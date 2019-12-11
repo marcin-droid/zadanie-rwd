@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'verdana';
+}
+
+header
+{
+    height: 100vh;
+    background-image: url('../obrazy/man-1.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    color: white;
+}
+h1, h2
+{
+    margin: 18px;    
+}
+img
+{
+    display: none;
+}
